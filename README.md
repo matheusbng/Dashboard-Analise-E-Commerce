@@ -35,7 +35,7 @@ O Dashboard e as métricas foram desenvolvidos em inglês com o objetivo de prat
 - Total Orders (Total de Pedidos)
 - Session-to-Order Conversion Rate (%) (Percentual de sessões que resultaram em pedidos) 
 - Revenue per Session (Receita por Sessão)
-- Revenue per Order (Average Order Value) (Receita por Pedido - Ticket Médio) 
+- Revenue per Order (Receita por Pedido - Ticket Médio) 
 
 ---
 
