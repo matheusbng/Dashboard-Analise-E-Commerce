@@ -1,32 +1,27 @@
 # 📊 E-Commerce Dashboard – Power BI
 
-## 🎯 Objetivo
-Analisar o desempenho de um e-commerce fictício (Maven Fuzzy Factory) a partir de dados de tráfego,
-pedidos e marketing digital, com foco em entender tendências de acesso, conversão, receita
-e performance dos canais de marketing ao longo do tempo.
+## 🎯 Objective
+Analyze the performance of a fictional e-commerce (Maven Fuzzy Factory) using a public dataset with traffic, orders, and digital marketing data, focusing on access trends, conversion, revenue, and marketing channel performance over time.
 
-O Dashboard foi desenvolvido com o objetivo de simular análises comuns no dia a dia de um
-Analista de Dados / BI, apoiando a tomada de decisão baseada em dados.
-
-O Dashboard e as métricas foram desenvolvidos em inglês com o objetivo de praticar a linguagem e simular projetos voltados a empresas e contextos internacionais.
+This dashboard was developed to simulate common analyses performed in the daily routine of a Data Analyst / BI Analyst, supporting data-driven decision-making.
 
 ---
 
-## 🧰 Ferramentas Utilizadas
+## 🧰 Tools Used
 - Power BI
 - DAX
-- Excel / CSV (dataset público)
+- Excel / CSV (public dataset)
 
 ---
 
-## 🧹 Preparação dos Dados e Modelagem
-- Limpeza e organização dos dados (tratamento de valores nulos e padronização de campos)
-- Criação de medidas em DAX para cálculo de métricas de negócio
-- Modelagem orientada à análise de conversão, receita e lucratividade
+## 🧹 Data Preparation and Modeling
+- Data cleaning and organization (handling null values and field standardization)
+- Creation of DAX measures to calculate business metrics
+- Data modeling focused on conversion, revenue, and profitability analysis
 
 ---
 
-## 📈 Principais Métricas
+## 📈 Key Metrics
 - Total Revenue (Receita Total)
 - Total COGS (Custo dos Produtos Vendidos) 
 - Total Profit (Lucro Total)
@@ -39,20 +34,20 @@ O Dashboard e as métricas foram desenvolvidos em inglês com o objetivo de prat
 
 ---
 
-## 📊 Análises Realizadas
-- Evolução do volume de tráfego (sessions) e pedidos ao longo do tempo  
-- Tendência da taxa de conversão de sessões em pedidos  
-- Evolução da receita por sessão  
-- Evolução do ticket médio (receita por pedido)  
-- Comparação de receita entre canais de marketing  
+## 📊 Analyses Performed
+- Traffic (sessions) and order volume trends over time  
+- Session-to-order conversion rate trend  
+- Revenue per session evolution  
+- Average order value (revenue per order) evolution  
+- Revenue comparison by marketing channel   
 
 ---
 
-## 📌 Destaques do Dashboard
-- Identificação de tendências mensais de acesso e vendas  
-- Avaliação da eficiência dos canais de marketing  
-- Análise de rentabilidade considerando custo (COGS) e lucro  
-- Visão clara da relação entre tráfego, conversão e receita  
+## 📌 Dashboard Highlights
+- Identification of monthly traffic and sales trends  
+- Evaluation of marketing channel efficiency  
+- Profitability analysis considering cost (COGS) and profit  
+- Clear view of the relationship between traffic, conversion, and revenue 
 
 ---
 
@@ -61,10 +56,9 @@ O Dashboard e as métricas foram desenvolvidos em inglês com o objetivo de prat
 
 ---
 
-## 📂 Arquivos Disponíveis
-- 📄 [Dashboard em PDF](Analise_Ecommerce_Portfolio.pdf)
+## 📂 Available Files
+- 📄 [Dashboard in PDF](Analise_Ecommerce_Portfolio.pdf)
 
-> ℹ️ O arquivo `.pbix` não foi incluído no repositório devido ao tamanho elevado do dataset.
-
+> ℹ️ The `.pbix` file was not included in the repository due to the large dataset size.
 
 
