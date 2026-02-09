@@ -8,6 +8,8 @@ e performance dos canais de marketing ao longo do tempo.
 O dashboard foi desenvolvido com o objetivo de simular análises comuns no dia a dia de um
 Analista de Dados / BI, apoiando a tomada de decisão baseada em dados.
 
+O dashboard e as métricas foram desenvolvidos em inglês com o objetivo de praticar a linguagem e simular projetos voltados a empresas e contextos internacionais.
+
 ---
 
 ## 🧰 Ferramentas Utilizadas
